@@ -1,0 +1,20 @@
+Project: Credit Card Fraud Detection - Survey Analysis
+
+Overview:
+This document summarizes the key techniques, datasets, and findings from multiple research papers
+and industry applications in the field of credit card fraud detection.
+
+Covered Topics:
+- Types of frauds (identity theft, fake cards, etc.)
+- Common algorithms used: Decision Trees, Random Forest, SVM, Neural Networks
+- Real-time detection vs. batch processing
+- Publicly available datasets (e.g., Kaggle credit card dataset)
+- Evaluation metrics: precision, recall, F1-score
+
+Insights:
+- Machine learning models need to be highly sensitive to false positives.
+- Imbalanced dataset handling is critical (undersampling/oversampling).
+- Ensemble methods show better accuracy in many studies.
+
+Conclusion:
+Accurate fraud detection combines robust models with real-time monitoring systems.
